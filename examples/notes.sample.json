@@ -1,0 +1,16 @@
+[
+  {
+    "moduleCode": "IT2120",
+    "lectureId": "sample-probability",
+    "lectureTitle": "Sample: Probability Basics",
+    "page": 1,
+    "text": "A probability is a number between 0 and 1. A probability of 0 means an event is impossible, and a probability of 1 means it is certain. For equally likely outcomes, P(A) equals the number of outcomes in event A divided by the total number of outcomes."
+  },
+  {
+    "moduleCode": "IT2120",
+    "lectureId": "sample-probability",
+    "lectureTitle": "Sample: Probability Basics",
+    "page": 2,
+    "text": "For a fair six-sided die, the sample space is {1, 2, 3, 4, 5, 6}. The event of rolling an even number is {2, 4, 6}. Therefore, the probability of an even number is 3/6 = 1/2."
+  }
+]
