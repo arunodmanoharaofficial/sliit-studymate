@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+.env
+.env.*
+!.env.example
+
+*.log
+*.tsbuildinfo
+
+# Local lecture materials
+data/
+uploads/
+*.pdf
